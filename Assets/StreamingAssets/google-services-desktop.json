@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660720646449",
+    "project_id": "basicauthandstorage",
+    "storage_bucket": "basicauthandstorage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660720646449:android:c5bc84c69823bee6549810",
+        "android_client_info": {
+          "package_name": "com.Incru.BasicAuthAndStorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660720646449-4c0erakgmv3tmv6ge4fm7u3tn6r8shga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCERCvdlBnPWJhfWHJUfrVSrDm9gu0NUN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660720646449-4c0erakgmv3tmv6ge4fm7u3tn6r8shga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
